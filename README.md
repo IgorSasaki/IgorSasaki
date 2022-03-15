@@ -4,7 +4,7 @@
 [![ Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:igor-sasaki@hotmail.com)](mailto:igor-sasaki@hotmail.com)
 [![GitHub IgorSasaki](https://img.shields.io/github/followers/IgorSasaki?label=follow&style=social)](https://github.com/IgorSasaki)
 
-Olá, meu nome é Igor, tenho 19 anos e a 5 anos eu me aventuro na área de desenvolvimento, começando pelos básicos desenvolvimentos de sites online para pequenas lojas e atualmente adquiro conhecimentos em cursos e outros trabalhos no qual produzi sistemas Web e aplicativos mobile.
+Olá, meu nome é Igor, tenho 20 anos e a 6 anos eu me aventuro na área de desenvolvimento, começando pelos básicos desenvolvimentos de sites online para pequenas lojas e atualmente adquiro conhecimentos em cursos e outros trabalhos no qual produzi sistemas Web e aplicativos mobile.
 Meu foco de desenvolvimento é Web responsivo e no desenvolvimento mobile utilizando tecnologias mais recentes no mercado tecnológico. Mas sempre vou em busca de novos caminhos para melhorar as soluções já encontradas no mercado.
     
 - 💬 Fale comigo [aqui](https://github.com/IgorSasaki/IgorSasaki/issues/new) ou [email](mailto:igor-sasaki@hotmail.com)
