@@ -4,9 +4,12 @@
 [![ Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:igor-sasaki@hotmail.com)](mailto:igor-sasaki@hotmail.com)
 [![GitHub IgorSasaki](https://img.shields.io/github/followers/IgorSasaki?label=follow&style=social)](https://github.com/IgorSasaki)
 
-Olá, meu nome é Igor, tenho 20 anos e a 6 anos eu me aventuro na área de desenvolvimento, começando pelos básicos desenvolvimentos de sites online para pequenas lojas e atualmente adquiro conhecimentos em cursos e outros trabalhos no qual produzi sistemas Web e aplicativos mobile.
-Meu foco de desenvolvimento é Web responsivo e no desenvolvimento mobile utilizando tecnologias mais recentes no mercado tecnológico. Mas sempre vou em busca de novos caminhos para melhorar as soluções já encontradas no mercado.
-    
+Olá! Meu nome é Igor, tenho 22 anos e sou Desenvolvedor Full Stack com oito anos de experiência na área. Minha jornada começou com a criação de sites básicos para pequenas lojas e, ao longo dos anos, expandi minhas habilidades por meio de diversos cursos e projetos, desenvolvendo sistemas web sofisticados e aplicativos móveis.
+
+Especializo-me em construir aplicações web responsivas e no desenvolvimento mobile utilizando as tecnologias mais recentes do mercado. Meu foco principal é criar soluções inovadoras e eficientes que aprimorem as ofertas existentes no mercado. Estou sempre em busca de novos caminhos para melhorar e inovar no espaço tecnológico.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou projetos interessantes para discutir. Vamos construir algo incrível juntos!
+
 - 💬 Fale comigo [aqui](https://github.com/IgorSasaki/IgorSasaki/issues/new) ou [email](mailto:igor-sasaki@hotmail.com)
 - :computer: Tecnologias: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,6 +17,7 @@ Meu foco de desenvolvimento é Web responsivo e no desenvolvimento mobile utiliz
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
