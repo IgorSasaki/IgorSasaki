@@ -4,7 +4,7 @@
 [![ Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:igor-sasaki@hotmail.com)](mailto:igor-sasaki@hotmail.com)
 [![GitHub IgorSasaki](https://img.shields.io/github/followers/IgorSasaki?label=follow&style=social)](https://github.com/IgorSasaki)
 
-Olá! Meu nome é Igor, tenho 22 anos e sou Desenvolvedor Full Stack com oito anos de experiência na área. Minha jornada começou com a criação de sites básicos para pequenas lojas e, ao longo dos anos, expandi minhas habilidades por meio de diversos cursos e projetos, desenvolvendo sistemas web sofisticados e aplicativos móveis.
+Olá! Meu nome é Igor, tenho 23 anos e sou Desenvolvedor Full Stack com nove anos de experiência na área. Minha jornada começou com a criação de sites básicos para pequenas lojas e, ao longo dos anos, expandi minhas habilidades por meio de diversos cursos e projetos, desenvolvendo sistemas web sofisticados e aplicativos móveis.
 
 Especializo-me em construir aplicações web responsivas e no desenvolvimento mobile utilizando as tecnologias mais recentes do mercado. Meu foco principal é criar soluções inovadoras e eficientes que aprimorem as ofertas existentes no mercado. Estou sempre em busca de novos caminhos para melhorar e inovar no espaço tecnológico.
 
