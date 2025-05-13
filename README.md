@@ -4,9 +4,21 @@
 [![ Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:igor-sasaki@hotmail.com)](mailto:igor-sasaki@hotmail.com)
 [![GitHub IgorSasaki](https://img.shields.io/github/followers/IgorSasaki?label=follow&style=social)](https://github.com/IgorSasaki)
 
-Olá! Meu nome é Igor, tenho 23 anos e sou Desenvolvedor Full Stack com nove anos de experiência na área. Minha jornada começou com a criação de sites básicos para pequenas lojas e, ao longo dos anos, expandi minhas habilidades por meio de diversos cursos e projetos, desenvolvendo sistemas web sofisticados e aplicativos móveis.
+Sou **Igor Sasaki**, Desenvolvedor Full Stack Sênior com mais de 8 anos de experiência em engenharia de software, especializado na construção de soluções web e mobile escaláveis, performáticas e orientadas a boas práticas de arquitetura.
 
-Especializo-me em construir aplicações web responsivas e no desenvolvimento mobile utilizando as tecnologias mais recentes do mercado. Meu foco principal é criar soluções inovadoras e eficientes que aprimorem as ofertas existentes no mercado. Estou sempre em busca de novos caminhos para melhorar e inovar no espaço tecnológico.
+💼 Atualmente atuo na **Incentivar**, onde participo do desenvolvimento de plataformas de incentivo de alta complexidade, trabalhando em toda a stack — do back-end à interface e soluções mobile — utilizando:
+
+- **Front-end**: React 19 • Next.js 15 • TailwindCSS • Zustand • React Hook Form  
+- **Mobile**: React Native com Expo  
+- **Back-end**: Node.js • NestJS • AdonisJS • PostgreSQL • DynamoDB  
+- **Infraestrutura**: AWS Lambda • Serverless Framework • CloudWatch • Ambientes dev/stg/prod
+
+💡 Também atuei no desenvolvimento de **sistemas ERP utilizados por mais de 1.000 franquias em todo o Brasil**, entregando funcionalidades críticas com foco em robustez, escalabilidade e aderência a regras de negócio complexas.
+
+🧠 Sigo princípios de **Clean Architecture**, **SOLID**, e mantenho pipelines de CI/CD padronizados. Participo de eventos e compartilho conhecimento com a comunidade — recentemente ministrei o minicurso *"Desvendando o Poder do NodeJS: Construindo APIs REST"* no IFSP Araraquara.
+
+🎓 Sou formado em **Segurança da Informação pela FATEC Araraquara** e Técnico em Informática pelo IFSP.  
+🛠 Tenho certificação prática em **Computação em Nuvem com Microsoft Azure**, realizada no **SENAI**, com foco em laboratório e ambientes experimentais.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou projetos interessantes para discutir. Vamos construir algo incrível juntos!
 
